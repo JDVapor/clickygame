@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/ari.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/bran.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/bron.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/cerc.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/dany.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/jamie.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/jon.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/pod.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/sam.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/san.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/tir.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/wild.png",
+        "clicked": false
+    }
+]
